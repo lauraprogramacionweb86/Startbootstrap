@@ -1,15 +1,42 @@
 header.masthead {
 background-image:url('../img/vuelofitji.jpg');
-
 }
+
+body {
+	background-color:#F0E68C;
+}
+
+
+
+
+
+
 h1{
 	
-	font-family: 'Arbutus', cursive;
-
+	font-family:'Luckiest Guy', cursive;
+	color: #B22222;
+    text-shadow: 2px 2px #20B2AA;
 }
+
+
+
+h2.masthead{
+	
+	font-family:'Luckiest Guy', cursive;
+	color:#9370DB;
+	text-shadow: 3px 2px #C71585;
+	
+}
+
+p {
+    display: block;
+    
+}
+	
 .btn-primary {
-	background-color: green;
-	border-color: #ee0979;
+	
+	background-color:#6A5ACD;
+	border-color: #DC143C;
 }
 footer a .fab{
 	color:purple;
